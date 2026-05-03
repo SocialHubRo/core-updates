@@ -1,8 +1,6 @@
 {
   "versiune_curenta": "3.0",
-  "versiune_minima": "3.0",
   "status": "activ",
   "mesaj": "",
-  "data_expirare": "2026-09-19",
-  "nota_interna": "Schimba status in dezactivat sau inlocuit cand vine SocialHub"
+  "data_expirare": null
 }
