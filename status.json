@@ -1,1 +1,6 @@
-{"versiune_curenta":"3.4","url_download":"https://github.com/SocialHubRo/CORE/releases/download/v3.4/CORE_v3.4.zip","note_release":"v3.4 - Panou completare ture (checkboxuri), barem ore pontaj fix, manual grafic 5 pasi","fortat":false}
+{
+  "versiune_curenta": "3.4",
+  "url_download": "https://github.com/SocialHubRo/CORE/releases/download/v3.4/CORE_v3.4.zip",
+  "note_release": "v3.4 - Logo in antet, grafic lucru si pontaj rescrise, migrare automata, Excel curat",
+  "fortat": false
+}
